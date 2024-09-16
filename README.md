@@ -3,7 +3,7 @@
 Repositório criado para os projetos e conteúdos das aulas de informática do curso de graduação em Gestão da Produção Industrial.
 
 #Indíce
-
+* [Equipe](#equipe)
 * [Conceitos de hardware e software] ();
 * [Sistema Operacional] (); 
 * [Redes e Sistema Distribuídos] ();
@@ -19,7 +19,7 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 * .[Competências desenvolvidas] (#Competências desenvolvidas).
 
 # Competências desenvolvidas
-
+# Equipe
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
