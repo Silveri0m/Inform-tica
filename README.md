@@ -13,7 +13,7 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 
 # Objetivo
 
-Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores
+Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores.
 
 # Matérias
 
