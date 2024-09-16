@@ -5,7 +5,7 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 # Indíce
 
 * [Objetivo](#objetivo)
-* [Apredizado Informática, Gestão de Produção Industrial - FATEC São José dos Campos](#Apredizado Informática, Gestão de Produção Industrial - FATEC São José dos Campos)
+* [Apredizados Informática](#Apredizados-Informática)
 * [Projetos](#projetos)
 * [Competências desenvolvidas](#competências-desenvolvidas).
 
@@ -13,7 +13,7 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 
 Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores.
 
-# Apredizado Informática, Gestão de Produção Industrial - FATEC São José dos Campos
+# Apredizados Informática
 
 Conceitos de hardware e software;
 
