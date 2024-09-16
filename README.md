@@ -4,7 +4,7 @@ Repositório criado para os projetos das aulas de informática do curso de gradu
 
 # Índice
 
-* [Projeto](#projeto-template)
+* [Projeto](#Trabalho_de_informática)
 * [Micro Certificações](#badges)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
