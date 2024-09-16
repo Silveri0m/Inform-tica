@@ -41,7 +41,8 @@ Outras Tecnologia e Ferramentas de Interesse.
 
 # Projetos
 
-
+Editor de planilhas (Excel):
+Aprendizado sobre as formulas SE, SOMASE, CONT.SE, MÉDIASES, para extração de dados de planilhas.
 
 # Competências desenvolvidas
 
