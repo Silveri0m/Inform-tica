@@ -16,7 +16,7 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 * [Criação de Home Pages] ();
 * [Outras Tecnologia e Ferramentas de Interesse] ().
 
-* .[Competências desenvolvidas] (#Competências desenvolvidas).
+* .[Competências desenvolvidas](#competências-desenvolvidas).
 
 # Competências desenvolvidas
 # Equipe
