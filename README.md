@@ -11,7 +11,7 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 * [Competências desenvolvidas](#competências-desenvolvidas).
 
 # Matérias
-[Conceitos de hardware e software]
+[Conceitos de hardware e software]()
 [Sistema Operacional]
 [Redes e Sistema Distribuídos]
 [Segurança da Informação]
