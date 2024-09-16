@@ -1,25 +1,34 @@
 # Informática
 
+# Apredizado Informática, Gestão de Produção Industrial - FATEC São José dos Campos
+
 Repositório criado para os projetos e conteúdos das aulas de informática do curso de graduação em Gestão da Produção Industrial.
 
-#Indíce
-* [Equipe](#equipe)
-* [Conceitos de hardware e software] ();
-* [Sistema Operacional] (); 
-* [Redes e Sistema Distribuídos] ();
-* [Segurança da Informação] ();
-* [Internet] ();
-* [Editor de Texto] ();
-* [Editor de Apresentações] ();
-* [Editor de Planilhas] ();
-* [Banco de Dados] ();
-* [Criação de Home Pages] ();
-* [Outras Tecnologia e Ferramentas de Interesse] ().
+# Indíce
 
-* .[Competências desenvolvidas](#competências-desenvolvidas).
+* [Projetos](#projeto-template)
+* [Matérias](#Matérias)
+* [Competências desenvolvidas](#competências-desenvolvidas).
+
+# Matérias
+[Conceitos de hardware e software]
+[Sistema Operacional]
+[Redes e Sistema Distribuídos]
+[Segurança da Informação]
+[Internet]
+[Editor de Texto]
+[Editor de Apresentações]
+[Editor de Planilhas]
+[Banco de Dados]
+[Criação de Home Pages]
+[Outras Tecnologia e Ferramentas de Interesse]
+
+# Projetos
+
+
 
 # Competências desenvolvidas
-# Equipe
+
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
