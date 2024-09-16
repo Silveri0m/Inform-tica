@@ -6,9 +6,9 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 
 # Indíce
 
-* [Projetos](#projetos)
 * [Objetivo](#objetivo)
 * [Matérias](#matérias)
+* [Projetos](#projetos)
 * [Competências desenvolvidas](#competências-desenvolvidas).
 
 # Objetivo
