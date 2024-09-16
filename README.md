@@ -7,10 +7,16 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 # Indíce
 
 * [Projetos](#projeto-template)
+* [Objetivo](Objetivo)
 * [Matérias](#Matérias)
 * [Competências desenvolvidas](#competências-desenvolvidas).
 
+# Objetivo
+
+Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores
+
 # Matérias
+
 Conceitos de hardware e software;
 
 Sistema Operacional;
