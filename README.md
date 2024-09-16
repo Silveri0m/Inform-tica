@@ -12,7 +12,7 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 
 # Matérias
 [Conceitos de hardware e software]()
-[Sistema Operacional]
+[Sistema Operacional]()
 [Redes e Sistema Distribuídos]
 [Segurança da Informação]
 [Internet]
