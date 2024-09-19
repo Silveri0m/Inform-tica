@@ -5,7 +5,7 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 # Indíce
 
 * [Objetivo](#objetivo)
-* [Apredizados Informática](#Apredizados-Informática)
+* [Aulas](#Aulas)
 * [Projetos](#projetos)
 * [Competências desenvolvidas](#competências-desenvolvidas).
 
@@ -13,34 +13,15 @@ Repositório criado para os projetos e conteúdos das aulas de informática do c
 
 Identificar e utilizar os recursos básicos ou avançados em ferramentas adequadas para executar tarefas administrativas e compreender aspectos de segurança da informação e do funcionamento de redes de computadores.
 
-# Apredizados Informática
+# Aulas
 
-Conceitos de hardware e software;
-
-Sistema Operacional;
-
-Redes e Sistema Distribuídos;
-
-Segurança da Informação;
-
-Internet;
-
-Editor de Texto;
-
-Editor de Apresentações;
-
-Editor de Planilhas;
-
-Banco de Dados;
-
-Criação de Home Pages;
-
-Outras Tecnologia e Ferramentas de Interesse.
+Editor de Planilhas (Excel).
 
 # Projetos
 
-Editor de planilhas (Excel):
+[![Editor de planilhas](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Trabalho%20de%20inform%C3%A1tica.xlsx)
 Aprendizado sobre as formulas SE, SOMASE, CONT.SE, MÉDIASES, para extração de dados de planilhas.
+
 
 # Competências desenvolvidas
 
