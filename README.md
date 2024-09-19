@@ -20,7 +20,6 @@ Editor de Planilhas (Excel).
 Aprendizado sobre as formulas SE, SOMASE, CONT.SE, MÉDIASES, para extração de dados de planilhas.
 
 # Projetos
-
 [Editor de planilhas]:(https://github.com/Silveri0m/Informatica/blob/main/Projetos/Trabalho%20de%20inform%C3%A1tica.xlsx)
 
 # Competências desenvolvidas
