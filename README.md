@@ -19,7 +19,7 @@ Editor de Planilhas (Excel).
 
 # Projetos
 
-[![Editor de planilhas](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Trabalho%20de%20inform%C3%A1tica.xlsx)
+[Editor de planilhas](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Trabalho%20de%20inform%C3%A1tica.xlsx)
 Aprendizado sobre as formulas SE, SOMASE, CONT.SE, MÉDIASES, para extração de dados de planilhas.
 
 
