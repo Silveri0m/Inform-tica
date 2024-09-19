@@ -1,4 +1,4 @@
-# Informática
+# Informática - GPI 1º Semestre
 
 Repositório criado para os projetos e conteúdos das aulas de informática do curso de graduação em Gestão da Produção Industrial.
 
