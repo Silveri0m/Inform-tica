@@ -21,10 +21,14 @@ Aprendizado sobre as formulas SE, SOMASE, CONT.SE, MÉDIASES, para extração de
 
 # Projetos
 📝[Editor de planilhas](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Trabalho%20de%20inform%C3%A1tica.xlsx)
+
 ![image](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Imagens%20dos%20projetos/PERGUNTAS%20(EXCEL).png)
+
 ![image](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Imagens%20dos%20projetos/GR%C3%81FICOS%20(EXCEL).png)
 
 📊[Power BI Tarefa - 1](https://github.com/Silveri0m/Informatica/blob/main/Projetos/INFORMATICA%20POWER%20BI.pbix)
+
+![image](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Imagens%20dos%20projetos/GR%C3%81FICOS%20(POWER%20BI).png)
 
 📊[Power BI Tarefa - 2](https://github.com/Silveri0m/Informatica/blob/main/Projetos/POWER%20BI%20-%205%20PERGUNTAS%20COM%20BASE%20DE%20DADOS.pbix)
 
