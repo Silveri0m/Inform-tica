@@ -15,15 +15,15 @@ Identificar e utilizar os recursos básicos ou avançados em ferramentas adequad
 
 # Aulas
 
-# Editor de Planilhas (Excel).
+**Editor de Planilhas (Excel).**
 
 Aprendizado sobre as formulas SE, SOMASE, CONT.SE, MÉDIASES, para extração de dados de planilhas.
 
-# Power BI - Tarefa 1
+**Power BI - Tarefa 1**
 
 Elaborar um arquivo que contenha INDICADOR e link para uma figura representativa desse indicador.
 
-# Power BI - Tarefa 2
+**Power BI - Tarefa 2**
 
 Elaborar visualizações via Power BI que possibilite responder às perguntas elaboradas no item anterior. Colocar título em seu dashboard.
 
