@@ -32,6 +32,8 @@ Aprendizado sobre as formulas SE, SOMASE, CONT.SE, MÉDIASES, para extração de
 
 📊[Power BI Tarefa - 2](https://github.com/Silveri0m/Informatica/blob/main/Projetos/POWER%20BI%20-%205%20PERGUNTAS%20COM%20BASE%20DE%20DADOS.pbix)
 
+![image](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Imagens%20dos%20projetos/GR%C3%81FICOS%20(POWER%20BI%202).png)
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
