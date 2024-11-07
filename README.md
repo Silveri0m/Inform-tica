@@ -30,7 +30,6 @@ Elaborar visualizações via Power BI que possibilite responder às perguntas el
 **Power BI - Tarefa 3**
 
 Produzir um dashboard referente ao KPI sobre o total de itens vendidos.
-Poste em seu Github.
 
 # Projetos
 
