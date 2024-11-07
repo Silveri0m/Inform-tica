@@ -43,6 +43,10 @@ Elaborar visualizações via Power BI que possibilite responder às perguntas el
 
 ![image](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Imagens%20dos%20projetos/GR%C3%81FICOS%20(POWER%20BI%202).png)
 
+📊[Power BI - Tarefa 3](https://github.com/Silveri0m/Informatica/blob/main/Projetos/POWER%20BI%20TAREFA%203.pbix)
+
+![image](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Imagens%20dos%20projetos/POWER%20BI%20TAREFA%203.png)
+
 # Competências desenvolvidas
 
 ## Hard Skill (saber tecnológico)
