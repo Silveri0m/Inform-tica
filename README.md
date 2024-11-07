@@ -27,6 +27,11 @@ Elaborar um arquivo que contenha INDICADOR e link para uma figura representativa
 
 Elaborar visualizações via Power BI que possibilite responder às perguntas elaboradas no item anterior. Colocar título em seu dashboard.
 
+**Power BI - Tarefa 3**
+
+Produzir um dashboard referente ao KPI sobre o total de itens vendidos.
+Poste em seu Github.
+
 # Projetos
 
 📝[Editor de planilhas](https://github.com/Silveri0m/Informatica/blob/main/Projetos/Trabalho%20de%20inform%C3%A1tica.xlsx)
